@@ -2,9 +2,6 @@
 Title
 Visual Chatbot
 
-Github Link 
-https://github.com/beril76/Visual-Chatbot
-
 Problem Statement
 To build a multi-class classifier which can classify the inputted image of an Indian monument followed by a chatbot which can answer the queries of the user regarding the classified inputted image as speech. In short, our app includes a 40 class image classifier, an interactive chatbot and a text to speech converter.
 
