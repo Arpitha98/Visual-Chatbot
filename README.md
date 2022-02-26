@@ -19,3 +19,4 @@ Validation accuracy - 77.08%.
 Once the classification is done the user interacts with the chatbot built using AllenNLP if the user wants to know more about the classified monument. The chatbot provides the output with audio.
 
 The app is built on Streamlit which provides the user with the options of an ABOUT page to know about HAL9000 Visual Chatbot and another option of Chatbot which includes the classifier.
+
